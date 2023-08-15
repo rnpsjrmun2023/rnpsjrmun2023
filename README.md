@@ -36,7 +36,7 @@
 
 <img src="./images/sc.jpg" />
 
-This is the official website of the RNPSMUN2023 Event organsized by NPS RNR, scheduled to be held on the 26th, 27th and 28th of June 2023.
+This is the official website of the RNPSJRMUN2023 Event organsized by NPS RNR, scheduled to be held on the,  and  of  2023.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,15 +58,15 @@ Just go to the website <a href="https://github.com/rnpsmun2022/rnpsmun2022.githu
 
 ## Contact Us
 
-You can get in touch with us using rnpsmun2023@gmail.com
+You can get in touch with us using rnpsjrmun2023@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## The Tech Team
-Parth K Dubal<br>
-Yash Anand
+Anurag Samptur<br>
+Aditya S P
  
 
 
