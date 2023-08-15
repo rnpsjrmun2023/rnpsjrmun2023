@@ -4,9 +4,9 @@
   <a href="https://github.com/rnpsmun2023/rnpsmun2022.github.io">
     <img src="./images/logo 2023.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">RNPSMUN 2023</h3>
+  <h3 align="center">RNPSJRMUN 2023</h3>
   <p align="center">
-    The official RNPSMUN 2023 website
+    The official RNPSJRMUN 2023 website
     <br />
     <a href="https://github.com/rnpsmun2022/rnpsmun2022.github.io"><strong>Explore the docs »</strong></a>
     <br />
